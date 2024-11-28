@@ -1,0 +1,10 @@
+.button {
+	 border: none;
+	background: none; 
+	cursor: pointer; /* Changer le curseur en main au survol */
+}
+.image {
+	width: 100px; 
+	height: 100px; 
+    border: 10px solid red; 
+}

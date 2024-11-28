@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+article {
+  background-image: url("/src/background.png");
+  background-size: cover;
+}
+
+.ryu {
+  margin-top: 20vh;
+  height: 70vh;
+  border: 10px solid yellow;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+  font-size: 2rem;
+  font-family: "Press Start 2P", cursive;
+}
+
+h2 {
+  text-align: center;
+  color: yellow;
+  font-size: 2rem;
+  font-family: "Press Start 2P", cursive;
+}

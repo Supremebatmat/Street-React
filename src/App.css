@@ -1,0 +1,8 @@
+body {
+  background-color: blue;
+}
+
+.pageEntiere {
+  max-height: fit-content;
+  height: 80vh;
+}
